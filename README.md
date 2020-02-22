@@ -1,3 +1,6 @@
-#Se crea un carrito de compra
+#Carrito de Compras
 
-**Se usa js em6.
+**Se usa JS ES6.
+**  jQuery 3.4.1
+**  popperjs/core v2.0.6
+**  Bootstrap v4.4.1 
